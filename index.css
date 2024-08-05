@@ -12,12 +12,20 @@ header {
 }
 
 #logo {
-    width: 127px;
+    width: 30%;
 }
 
 .avatar {
-    width: 34px;
+    width: 12%;
     border-radius: 50%;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1rem;
 }
 
 h3, p {
