@@ -77,3 +77,15 @@ h3, p {
 .likes {
     margin: 5px 0;
 }
+
+@media (max-width: 600px) {
+    h3 {
+        font-size: 2rem;
+    }
+    p {
+        font-size: 1.5rem;
+    }
+    .btn-icon {
+        width: 35px;
+    }
+}
